@@ -1,0 +1,11 @@
+#this is nonsense. just create geodjango db first
+sudo su - postgres
+createdb gistutorial
+psql gistutorial
+> CREATE EXTENSION postgis;
+> CREATE EXTENSION postgis_topology;
+> CREATE USER geodjango PASSWORD 'geodjango';
+> CREATE DATABASE geodjango OWNER geodjango;
+> ALTER ROLE geodjango WITH CREATEDB;
+> ALTER USER geodjango WITH ENCRYPTED PASSWORD 'geodjango';
+

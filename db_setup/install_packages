@@ -1,0 +1,7 @@
+apt install postgresql-10-postgis-2.4
+apt install postgresql-server-dev-10
+apt install python-psycopg2
+apt install python3-gdal
+apt install libproj-dev
+apt install libgeos-3.6.2
+apt install gdal-bin
