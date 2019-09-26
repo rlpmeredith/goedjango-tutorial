@@ -1,0 +1,1505 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.74642,37.18087 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":125,
+    "COURSE":114,
+    "HEADING":115,
+    "TIMESTAMP UTC":"2018-03-16 03:00:01"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.88197,37.14685 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":126,
+    "COURSE":305,
+    "HEADING":305,
+    "TIMESTAMP UTC":"2018-03-16 03:00:07"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.20143,37.07852 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"General Cargo",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":141,
+    "COURSE":281,
+    "HEADING":282,
+    "TIMESTAMP UTC":"2018-03-16 03:00:07"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.74652,37.14172 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Oil Products Tanker",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":125,
+    "COURSE":111,
+    "HEADING":113,
+    "TIMESTAMP UTC":"2018-03-16 03:00:08"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.20892,36.9438 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":125,
+    "COURSE":99,
+    "HEADING":100,
+    "TIMESTAMP UTC":"2018-03-16 03:00:08"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.48083,37.31516 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":131,
+    "COURSE":303,
+    "HEADING":303,
+    "TIMESTAMP UTC":"2018-03-16 03:00:44"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.94681,36.95374 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Fishing",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":28,
+    "COURSE":100,
+    "HEADING":511,
+    "TIMESTAMP UTC":"2018-03-16 03:00:47"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.0442,36.98871 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":163,
+    "COURSE":106,
+    "HEADING":106,
+    "TIMESTAMP UTC":"2018-03-16 03:00:58"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.83525,37.09067 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":123,
+    "COURSE":117,
+    "HEADING":119,
+    "TIMESTAMP UTC":"2018-03-16 03:01:04"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.92885,37.2431 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Fishing",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":10,
+    "COURSE":147,
+    "HEADING":511,
+    "TIMESTAMP UTC":"2018-03-16 03:01:25"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.97991,36.98463 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Oil/Chemical Tanker",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":142,
+    "COURSE":119,
+    "HEADING":119,
+    "TIMESTAMP UTC":"2018-03-16 03:01:26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.25508,36.95167 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":121,
+    "COURSE":115,
+    "HEADING":116,
+    "TIMESTAMP UTC":"2018-03-16 03:01:31"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.90922,37.13558 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Ro-Ro/Passenger Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":112,
+    "COURSE":178,
+    "HEADING":183,
+    "TIMESTAMP UTC":"2018-03-16 03:01:34"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.44809,37.50396 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Inland, Unknown",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":85,
+    "COURSE":108,
+    "HEADING":511,
+    "TIMESTAMP UTC":"2018-03-16 03:01:46"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.57949,37.29132 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"General Cargo",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":142,
+    "COURSE":296,
+    "HEADING":297,
+    "TIMESTAMP UTC":"2018-03-16 03:02:02"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.5248,37.02333 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":147,
+    "COURSE":140,
+    "HEADING":141,
+    "TIMESTAMP UTC":"2018-03-16 03:02:04"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.92657,37.72767 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Pleasure Craft",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":136,
+    "COURSE":314,
+    "HEADING":317,
+    "TIMESTAMP UTC":"2018-03-16 03:02:07"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.06287,36.92327 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":142,
+    "COURSE":121,
+    "HEADING":123,
+    "TIMESTAMP UTC":"2018-03-16 03:02:15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.8743,37.15132 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":125,
+    "COURSE":306,
+    "HEADING":305,
+    "TIMESTAMP UTC":"2018-03-16 03:02:16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.1904,37.08019 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"General Cargo",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":141,
+    "COURSE":280,
+    "HEADING":282,
+    "TIMESTAMP UTC":"2018-03-16 03:02:25"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.75598,37.13877 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Oil Products Tanker",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":125,
+    "COURSE":111,
+    "HEADING":113,
+    "TIMESTAMP UTC":"2018-03-16 03:02:27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.21894,36.94251 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":126,
+    "COURSE":100,
+    "HEADING":102,
+    "TIMESTAMP UTC":"2018-03-16 03:02:28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.75635,37.17726 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":125,
+    "COURSE":114,
+    "HEADING":115,
+    "TIMESTAMP UTC":"2018-03-16 03:02:31"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.47137,37.32015 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":129,
+    "COURSE":304,
+    "HEADING":303,
+    "TIMESTAMP UTC":"2018-03-16 03:03:14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.05676,36.98577 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":164,
+    "COURSE":106,
+    "HEADING":107,
+    "TIMESTAMP UTC":"2018-03-16 03:03:16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.92881,37.24296 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Fishing",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":3,
+    "COURSE":214,
+    "HEADING":511,
+    "TIMESTAMP UTC":"2018-03-16 03:03:25"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.94926,36.95372 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Fishing",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":28,
+    "COURSE":67,
+    "HEADING":511,
+    "TIMESTAMP UTC":"2018-03-16 03:03:27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.98932,36.98045 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Oil/Chemical Tanker",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":142,
+    "COURSE":119,
+    "HEADING":119,
+    "TIMESTAMP UTC":"2018-03-16 03:03:38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.84597,37.08603 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":124,
+    "COURSE":117,
+    "HEADING":119,
+    "TIMESTAMP UTC":"2018-03-16 03:03:52"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.26445,36.94795 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":122,
+    "COURSE":116,
+    "HEADING":116,
+    "TIMESTAMP UTC":"2018-03-16 03:04:00"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.90901,37.1279 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Ro-Ro/Passenger Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":112,
+    "COURSE":187,
+    "HEADING":195,
+    "TIMESTAMP UTC":"2018-03-16 03:04:03"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.45476,37.50211 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Inland, Unknown",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":86,
+    "COURSE":109,
+    "HEADING":511,
+    "TIMESTAMP UTC":"2018-03-16 03:04:07"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.56916,37.29529 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"General Cargo",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":143,
+    "COURSE":296,
+    "HEADING":298,
+    "TIMESTAMP UTC":"2018-03-16 03:04:20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.91869,37.73408 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Pleasure Craft",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":140,
+    "COURSE":316,
+    "HEADING":317,
+    "TIMESTAMP UTC":"2018-03-16 03:04:26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.5322,37.01563 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":145,
+    "COURSE":143,
+    "HEADING":146,
+    "TIMESTAMP UTC":"2018-03-16 03:04:27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.07272,36.9185 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":142,
+    "COURSE":121,
+    "HEADING":124,
+    "TIMESTAMP UTC":"2018-03-16 03:04:33"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.8661,37.15617 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":125,
+    "COURSE":306,
+    "HEADING":305,
+    "TIMESTAMP UTC":"2018-03-16 03:04:37"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.1798,37.0819 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"General Cargo",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":142,
+    "COURSE":281,
+    "HEADING":281,
+    "TIMESTAMP UTC":"2018-03-16 03:04:37"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.76537,37.1358 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Oil Products Tanker",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":125,
+    "COURSE":111,
+    "HEADING":113,
+    "TIMESTAMP UTC":"2018-03-16 03:04:47"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.22966,36.94099 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":126,
+    "COURSE":99,
+    "HEADING":101,
+    "TIMESTAMP UTC":"2018-03-16 03:04:57"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.06946,36.98272 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":165,
+    "COURSE":106,
+    "HEADING":106,
+    "TIMESTAMP UTC":"2018-03-16 03:05:35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.46206,37.32514 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":129,
+    "COURSE":304,
+    "HEADING":303,
+    "TIMESTAMP UTC":"2018-03-16 03:05:46"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.77032,37.17228 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":126,
+    "COURSE":114,
+    "HEADING":115,
+    "TIMESTAMP UTC":"2018-03-16 03:06:01"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.90757,37.121 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Ro-Ro/Passenger Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":111,
+    "COURSE":196,
+    "HEADING":204,
+    "TIMESTAMP UTC":"2018-03-16 03:06:17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.27335,36.94452 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":121,
+    "COURSE":115,
+    "HEADING":116,
+    "TIMESTAMP UTC":"2018-03-16 03:06:21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.8554,37.08188 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":123,
+    "COURSE":119,
+    "HEADING":119,
+    "TIMESTAMP UTC":"2018-03-16 03:06:23"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.55984,37.29897 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"General Cargo",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":141,
+    "COURSE":295,
+    "HEADING":297,
+    "TIMESTAMP UTC":"2018-03-16 03:06:26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.92875,37.2429 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Fishing",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":11,
+    "COURSE":75,
+    "HEADING":511,
+    "TIMESTAMP UTC":"2018-03-16 03:06:36"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.46178,37.50004 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Inland, Unknown",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":86,
+    "COURSE":110,
+    "HEADING":511,
+    "TIMESTAMP UTC":"2018-03-16 03:06:36"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.95209,36.95372 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Fishing",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":24,
+    "COURSE":69,
+    "HEADING":511,
+    "TIMESTAMP UTC":"2018-03-16 03:06:38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.91137,37.74015 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Pleasure Craft",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":136,
+    "COURSE":316,
+    "HEADING":318,
+    "TIMESTAMP UTC":"2018-03-16 03:06:38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.53868,37.00842 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":145,
+    "COURSE":144,
+    "HEADING":146,
+    "TIMESTAMP UTC":"2018-03-16 03:06:40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.00478,36.97357 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Oil/Chemical Tanker",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":142,
+    "COURSE":119,
+    "HEADING":119,
+    "TIMESTAMP UTC":"2018-03-16 03:07:14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.77557,37.13247 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Oil Products Tanker",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":126,
+    "COURSE":112,
+    "HEADING":112,
+    "TIMESTAMP UTC":"2018-03-16 03:07:17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.24033,36.93951 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":127,
+    "COURSE":99,
+    "HEADING":101,
+    "TIMESTAMP UTC":"2018-03-16 03:07:28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.08608,36.91183 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":141,
+    "COURSE":121,
+    "HEADING":123,
+    "TIMESTAMP UTC":"2018-03-16 03:07:46"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.1639,37.08438 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"General Cargo",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":141,
+    "COURSE":280,
+    "HEADING":283,
+    "TIMESTAMP UTC":"2018-03-16 03:07:56"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.85367,37.16322 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":123,
+    "COURSE":302,
+    "HEADING":300,
+    "TIMESTAMP UTC":"2018-03-16 03:08:07"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.77976,37.16882 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":127,
+    "COURSE":114,
+    "HEADING":113,
+    "TIMESTAMP UTC":"2018-03-16 03:08:21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.45206,37.33064 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":130,
+    "COURSE":305,
+    "HEADING":303,
+    "TIMESTAMP UTC":"2018-03-16 03:08:26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.90305,37.11504 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Ro-Ro/Passenger Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":112,
+    "COURSE":206,
+    "HEADING":212,
+    "TIMESTAMP UTC":"2018-03-16 03:08:35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.55011,37.30264 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"General Cargo",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":140,
+    "COURSE":294,
+    "HEADING":296,
+    "TIMESTAMP UTC":"2018-03-16 03:08:38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.2822,36.94102 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":121,
+    "COURSE":116,
+    "HEADING":117,
+    "TIMESTAMP UTC":"2018-03-16 03:08:41"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.08774,36.97828 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":167,
+    "COURSE":106,
+    "HEADING":106,
+    "TIMESTAMP UTC":"2018-03-16 03:08:52"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.86547,37.07752 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":123,
+    "COURSE":119,
+    "HEADING":119,
+    "TIMESTAMP UTC":"2018-03-16 03:09:03"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.0141,36.96936 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Oil/Chemical Tanker",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":142,
+    "COURSE":119,
+    "HEADING":119,
+    "TIMESTAMP UTC":"2018-03-16 03:09:25"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.78503,37.12942 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Oil Products Tanker",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":126,
+    "COURSE":112,
+    "HEADING":113,
+    "TIMESTAMP UTC":"2018-03-16 03:09:36"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.95494,36.95373 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Fishing",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":28,
+    "COURSE":90,
+    "HEADING":511,
+    "TIMESTAMP UTC":"2018-03-16 03:09:47"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.25118,36.93795 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":127,
+    "COURSE":100,
+    "HEADING":100,
+    "TIMESTAMP UTC":"2018-03-16 03:09:58"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.47159,37.49702 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Inland, Unknown",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":85,
+    "COURSE":111,
+    "HEADING":511,
+    "TIMESTAMP UTC":"2018-03-16 03:10:07"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.15285,37.08617 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"General Cargo",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":141,
+    "COURSE":280,
+    "HEADING":284,
+    "TIMESTAMP UTC":"2018-03-16 03:10:13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.5497,36.99618 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":146,
+    "COURSE":144,
+    "HEADING":145,
+    "TIMESTAMP UTC":"2018-03-16 03:10:21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.44412,37.33502 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":129,
+    "COURSE":304,
+    "HEADING":303,
+    "TIMESTAMP UTC":"2018-03-16 03:10:36"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.84442,37.16762 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":123,
+    "COURSE":300,
+    "HEADING":300,
+    "TIMESTAMP UTC":"2018-03-16 03:10:37"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.78996,37.16562 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":127,
+    "COURSE":111,
+    "HEADING":112,
+    "TIMESTAMP UTC":"2018-03-16 03:10:50"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.2911,36.93753 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":121,
+    "COURSE":115,
+    "HEADING":116,
+    "TIMESTAMP UTC":"2018-03-16 03:11:01"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.09977,36.90503 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":141,
+    "COURSE":121,
+    "HEADING":123,
+    "TIMESTAMP UTC":"2018-03-16 03:11:04"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.09988,36.97542 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":168,
+    "COURSE":106,
+    "HEADING":106,
+    "TIMESTAMP UTC":"2018-03-16 03:11:05"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.89787,37.10782 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Ro-Ro/Passenger Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":113,
+    "COURSE":209,
+    "HEADING":213,
+    "TIMESTAMP UTC":"2018-03-16 03:11:14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.02362,36.96511 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Oil/Chemical Tanker",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":142,
+    "COURSE":118,
+    "HEADING":119,
+    "TIMESTAMP UTC":"2018-03-16 03:11:38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.87542,37.0732 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":122,
+    "COURSE":119,
+    "HEADING":120,
+    "TIMESTAMP UTC":"2018-03-16 03:11:42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.53569,37.30839 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"General Cargo",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":139,
+    "COURSE":295,
+    "HEADING":297,
+    "TIMESTAMP UTC":"2018-03-16 03:11:57"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.7952,37.12605 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Oil Products Tanker",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":126,
+    "COURSE":112,
+    "HEADING":112,
+    "TIMESTAMP UTC":"2018-03-16 03:12:07"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.92911,37.24288 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Fishing",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":12,
+    "COURSE":83,
+    "HEADING":511,
+    "TIMESTAMP UTC":"2018-03-16 03:12:16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.55553,36.9896 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":144,
+    "COURSE":144,
+    "HEADING":146,
+    "TIMESTAMP UTC":"2018-03-16 03:12:21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.142,37.08871 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"General Cargo",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":142,
+    "COURSE":288,
+    "HEADING":291,
+    "TIMESTAMP UTC":"2018-03-16 03:12:32"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.26266,36.93637 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":126,
+    "COURSE":100,
+    "HEADING":101,
+    "TIMESTAMP UTC":"2018-03-16 03:12:38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.47904,37.49468 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Inland, Unknown",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":85,
+    "COURSE":112,
+    "HEADING":511,
+    "TIMESTAMP UTC":"2018-03-16 03:12:47"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.95775,36.9537 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Fishing",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":23,
+    "COURSE":81,
+    "HEADING":511,
+    "TIMESTAMP UTC":"2018-03-16 03:12:57"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.79968,37.16259 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":127,
+    "COURSE":108,
+    "HEADING":106,
+    "TIMESTAMP UTC":"2018-03-16 03:13:11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.10895,36.90043 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":142,
+    "COURSE":122,
+    "HEADING":123,
+    "TIMESTAMP UTC":"2018-03-16 03:13:15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.113,36.97221 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":169,
+    "COURSE":107,
+    "HEADING":107,
+    "TIMESTAMP UTC":"2018-03-16 03:13:23"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.89331,37.10137 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Ro-Ro/Passenger Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":113,
+    "COURSE":210,
+    "HEADING":213,
+    "TIMESTAMP UTC":"2018-03-16 03:13:35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.83212,37.17355 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":123,
+    "COURSE":301,
+    "HEADING":301,
+    "TIMESTAMP UTC":"2018-03-16 03:13:56"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.03389,36.96061 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Oil/Chemical Tanker",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":142,
+    "COURSE":119,
+    "HEADING":119,
+    "TIMESTAMP UTC":"2018-03-16 03:14:02"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.80478,37.1229 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Oil Products Tanker",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":126,
+    "COURSE":112,
+    "HEADING":113,
+    "TIMESTAMP UTC":"2018-03-16 03:14:28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.52413,37.31318 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"General Cargo",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":138,
+    "COURSE":296,
+    "HEADING":298,
+    "TIMESTAMP UTC":"2018-03-16 03:14:39"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.5626,36.98182 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Container Ship",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":144,
+    "COURSE":141,
+    "HEADING":142,
+    "TIMESTAMP UTC":"2018-03-16 03:14:45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.486,37.49244 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Inland, Unknown",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":87,
+    "COURSE":111,
+    "HEADING":511,
+    "TIMESTAMP UTC":"2018-03-16 03:15:16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.27401,36.93486 ]
+    },
+    "properties": {
+    "VESSEL TYPE":"Bulk Carrier",
+    "STATUS":"0",
+    "SPEED (KNOTSx10)":126,
+    "COURSE":100,
+    "HEADING":102,
+    "TIMESTAMP UTC":"2018-03-16 03:15:17"
+    }
+  }
+]
+}

@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.gis',
     'world',
+    'leaflet',
+    'djgeojson',
 ]
 
 MIDDLEWARE = [
@@ -123,3 +125,14 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
 STATIC_URL = '/static/'
+
+SERIALIZATION_MODULES = {
+     "geojson": "django.contrib.gis.serializers.geojson",
+  }
+
+LEAFLET_CONFIG = {
+  'DEFAULT_CENTER': (34.05,-118.24),
+  'DEFAULT_ZOOM': 6,
+  'MIN_ZOOM': 1,
+  'MAX_ZOOM': 20,
+}

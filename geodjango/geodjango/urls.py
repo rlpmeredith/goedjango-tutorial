@@ -15,7 +15,12 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import include, path
+from world.views import borders_view, feeding_areas
+from world.views import MainPageView
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('borders.data/', borders_view, name='borders'),
+    path('feedingareas.data/', feeding_areas, name='feedingareas'),
+    path('', MainPageView.as_view()),
 ]

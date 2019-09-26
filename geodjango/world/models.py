@@ -3,6 +3,7 @@ from django.db import models
 # Create your models here.
 
 from django.contrib.gis.db import models
+from djgeojson.fields import PolygonField
 
 class WorldBorder(models.Model):
     # Regular Django fields corresponding to the attributes in the
@@ -25,3 +26,22 @@ class WorldBorder(models.Model):
     # Returns the string representation of the model.
     def __str__(self):
         return self.name
+
+class FeedingAreas(models.Model):
+
+    title = models.CharField(max_length=256)
+    description = models.TextField()
+    geom = models.PolygonField()
+
+    def __unicode__(self):
+        return self.title
+
+class aisdata(models.Model):
+    vesseltype = models.CharField(max_length=256)
+    status = models.CharField(max_length=256)
+    speed = models.IntegerField()
+    course = models.IntegerField()
+    heading = models.IntegerField()
+    timestamp = models.DateTimeField()
+    geom = models.PointField()
+

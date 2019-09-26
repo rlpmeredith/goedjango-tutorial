@@ -1,0 +1,11 @@
+# Auto-generated `LayerMapping` dictionary for aisdata model
+aisdata_mapping = {
+    'vesseltype': 'VESSEL TYPE',
+    'status': 'STATUS',
+    'speed': 'SPEED (KNOTSx10)',
+    'course': 'COURSE',
+    'heading': 'HEADING',
+    'timestamp': 'TIMESTAMP UTC',
+    'geom': 'POINT',
+}
+
